@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../PolicyNotesService.Tests/PolicyNotesService.Tests.csproj" Id="534f93f5-5fb2-4816-abfb-2e884bb148e9" />
+  <Project Path="PolicyNotesService.csproj" />
+</Solution>
